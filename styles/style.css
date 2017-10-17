@@ -23,3 +23,27 @@ position: relative;
   background: #FF9900;
   position: fixed;
 }
+.index1{
+  z-index: 1;
+  background: #123456;
+  left: 10px;
+  bottom: 10px
+}
+.index2{
+  z-index: 2;
+  background: #123456;
+  left: 20px;
+  bottom: 20px
+}
+.index3{
+  z-index: 3;
+  background: #123456;
+  left: 30px;
+  bottom: 30px
+}
+.index4{
+  z-index: 4;
+  background: #123456;
+  left: 40px;
+  bottom: 40px
+}
