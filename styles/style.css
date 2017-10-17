@@ -47,3 +47,8 @@ position: relative;
   left: 40px;
   bottom: 40px
 }
+.class{
+  background: yellow;
+  width: 500px;
+  position: relative;
+}
